@@ -1,0 +1,283 @@
+.hline	
+{
+	BACKGROUND-COLOR: #ba1b22;
+}
+.content-header
+{
+	background-color: #ba1b22;
+	border-right: #ba1b22 0px solid;
+	border-left: #ba1b22 0px solid;
+}
+.header
+{
+	background-color: #ba1b22;
+	border-right: #ba1b22 0px solid;
+	border-left: #ba1b22 0px solid;
+}
+.tophead
+{
+	color: #FFFFFF;
+}
+TD
+{
+	font-weight: normal;
+	font-size: 11px;
+	color: #333333;
+	font-family: Verdana;
+}
+.Normal
+{
+	font-weight: normal;
+	font-size: 11px;
+	font-family: Verdana;
+}
+.mini
+{
+	font-weight: normal;
+	font-size: 9px;
+	font-family: Verdana;
+}
+
+	.TitelASP
+	{
+		color : #ba1b22;
+		font-weight : bold;
+	}
+	.TitelASP2
+	{
+		color : #333333;
+		font-weight : bold;
+
+	}
+	.TitelASP3
+	{
+		color :  #CCCCCC;
+		font-weight : bold;
+
+	}
+	.NormalBlock	{
+		FONT-WEIGHT : normal;
+		FONT-SIZE : 11px;
+		FONT-FAMILY : Verdana;
+		TEXT-ALIGN : justify;
+	}
+	.NormalR	{
+		FONT-WEIGHT : normal;
+		FONT-SIZE : 11px;
+		FONT-FAMILY : Verdana;
+		TEXT-ALIGN : right;
+	}
+	.NormalZ	{
+		FONT-WEIGHT : normal;
+		FONT-SIZE : 11px;
+		FONT-FAMILY : Verdana;
+		TEXT-ALIGN : center;
+	}
+	.NormalVZ	{
+		FONT-WEIGHT : normal;
+		FONT-SIZE : 11px;
+		FONT-FAMILY : Verdana;
+		VERTICAL-ALIGN : center;
+	}
+	.searchfield	{
+		FONT-SIZE : 11px;
+		FONT-FAMILY : Verdana;
+		HEIGHT : 20px;
+		WIDTH : 120px;
+	}
+	.input_SubType80	{
+		height: 18px;
+		width: 80px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+		color:#FFFFFF;
+		border: #FFFFFF 1px solid;
+		background-color:#ba1b22;
+	}
+	.input_SubType100	{
+		height: 18px;
+		width: 100px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+		color:#FFFFFF;
+		border: #FFFFFF 1px solid;
+		background-color:#ba1b22;
+	}
+	.input_SubType120	{
+		height: 18px;
+		width: 120px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+		color:#FFFFFF;
+		border: #FFFFFF 1px solid;
+		background-color:#ba1b22;
+	}
+	.input_SubType150	{
+		height: 18px;
+		width: 150px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+		color:#FFFFFF;
+		border: #FFFFFF 1px solid;
+		background-color:#ba1b22;
+	}
+	.input_SubType180	{
+		height: 18px;
+		width: 180px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+		color:#FFFFFF;
+		border: #FFFFFF 1px solid;
+		background-color:#ba1b22;
+	}
+	.input_SubType200	{
+		height: 18px;
+		width: 200px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+		color:#FFFFFF;
+		border: #FFFFFF 1px solid;
+		background-color:#ba1b22;
+	}
+	.input_SubType250	{
+		height: 18px;
+		width: 250px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+		color:#FFFFFF;
+		border: #FFFFFF 1px solid;
+		background-color:#ba1b22;
+	}
+	.input_SubType350	{
+		height: 18px;
+		width: 350px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+		color:#FFFFFF;
+		border: #FFFFFF 1px solid;
+		background-color:#ba1b22;
+	}
+	.insert_boxType30	{
+		height: 18px;
+		width: 30px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType90	{
+		height: 18px;
+		width: 90px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType50	{
+		height: 18px;
+		width: 50px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType70	{
+		height: 18px;
+		width: 70px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType100	{
+		height: 18px;
+		width: 100px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType120	{
+		height: 18px;
+		width: 120px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType150	{
+		height: 18px;
+		width: 150px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType180	{
+		height: 18px;
+		width: 180px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType200	{
+		height: 18px;
+		width: 200px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType250	{
+		height: 18px;
+		width: 250px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType300	{
+		height: 18px;
+		width: 300px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType350	{
+		height: 18px;
+		width: 350px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType400	{
+		height: 18px;
+		width: 400px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType450	{
+		height: 18px;
+		width: 450px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.insert_boxType500	{
+		height: 18px;
+		width: 500px;
+		FONT-SIZE : 10px;
+		FONT-FAMILY : Verdana;
+	}
+	.NormalG	{
+		font-size: 11px; 
+		color: #333333; 
+		text-align: left; 
+		background-color: #BEBEBE;
+		FONT-FAMILY : Verdana;
+	}
+	.tline	{
+		BACKGROUND-COLOR: #ba1b22;
+	}
+		.tlineaufab	{
+		BACKGROUND-COLOR: #FFFFFF;
+	}
+	.checkbox {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	background-color: #FFFFFF;
+}
+.textarea {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #000099;
+	background-color: #FFFFFF;
+	height: 10px;
+	width: 30px;
+}
+.monat {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; background-color: #000000; color: #CCCCCC}
+.mosa {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #000000; background-image: url(balken.gif)}
+.mosaanzeige { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-weight: bold; color: #000099 }
+.so { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #CC3333; background-image: url(balken.gif) }
+.soanzeige { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-weight: bold; color: #CC3333}
+.anderemosa { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-weight: normal }
+.andereso { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-weight: normal ; color: #CC3333}
